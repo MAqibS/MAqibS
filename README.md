@@ -63,13 +63,4 @@ With a strong combination of **cloud architecture**, **infrastructure-as-code**,
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MAqibS&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAqibS&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### ⭐️ If you like my work, feel free to reach out! ⭐

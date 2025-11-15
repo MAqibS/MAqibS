@@ -89,22 +89,4 @@ With a strong combination of **cloud architecture**, **infrastructure-as-code**,
 
 ---
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MAqibS&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-### ⭐️ If you like my work, feel free to star ⭐ my repositories!
+### ⭐️ If you like my work, feel free to reach out! ⭐

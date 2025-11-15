@@ -10,8 +10,7 @@
 
 ## 🚀 About Me
 
-I’m a **Technology Leader, Platform Engineer, and Data Engineer** with expertise across **multi-cloud**, **DevOps**, **data platforms**, and **enterprise-scale software engineering**.  
-I specialize in building **scalable platforms**, **data pipelines**, **cloud-native architectures**, and **automated delivery systems** that empower engineering and analytics teams.
+I’m a **Technology Leader, Platform Engineer, and Data Engineer** with expertise across **multi-cloud**, **DevOps**, **data platforms**, and **enterprise-scale software engineering**. I specialize in building **scalable platforms**, **data pipelines**, **cloud-native architectures**, and **automated delivery systems** that empower engineering and analytics teams.
 
 With a strong combination of **cloud architecture**, **infrastructure-as-code**, **data engineering**, and **software development**, I bridge the gap between **DevOps**, **platform engineering**, and **data-driven systems**.
 
@@ -33,20 +32,16 @@ With a strong combination of **cloud architecture**, **infrastructure-as-code**,
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 My Tech Stack
 
----
-
-### ☁️ **Cloud Platforms**
+### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0072C6?logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white" />
 </p>
 
----
-
-## 🧰 **DevOps & Platform Engineering**
+### 🧰 DevOps & Platform Engineering
 <p>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white" />
@@ -57,52 +52,49 @@ With a strong combination of **cloud architecture**, **infrastructure-as-code**,
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" />
 </p>
 
----
+### 🧬 Data Engineering & Analytics
+ 
+* **Data Processing & Compute**
+    <p>
+      <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySpark-FFCA28?logo=python&logoColor=black" />
+      <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/EMR-FF9900?logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dataflow-4285F4?logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Synapse-0078D4?logo=azure-synapse-analytics&logoColor=white" />
+    </p>
 
-## 🧬 **Data Engineering & Analytics**
-### **Data Processing & Compute**
-<p>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-FFCA28?logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/EMR-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dataflow-4285F4?logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Synapse-0078D4?logo=azure-synapse-analytics&logoColor=white" />
-</p>
+* **Orchestration**
+    <p>
+      <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Data%20Factory-02569B?logo=microsoft-azure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prefect-000000?logo=prefect&logoColor=white" />
+    </p>
 
-### **Orchestration**
-<p>
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20Data%20Factory-02569B?logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prefect-000000?logo=prefect&logoColor=white" />
-</p>
+* **Streaming**
+    <p>
+      <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kinesis-FF9900?logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pub/Sub-4285F4?logo=google-cloud&logoColor=white" />
+    </p>
 
-### **Streaming**
-<p>
-  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kinesis-FF9900?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pub/Sub-4285F4?logo=google-cloud&logoColor=white" />
-</p>
+* **Storage & Lakehouse**
+    <p>
+      <img src="https://img.shields.io/badge/Delta%20Lake-0A9EDC?logo=delta&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data%20Lake-1E90FF?logo=azure-data-lake&logoColor=white" />
+      <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redshift-CC0000?logo=amazon-redshift&logoColor=white" />
+    </p>
 
-### **Storage & Lakehouse**
-<p>
-  <img src="https://img.shields.io/badge/Delta%20Lake-0A9EDC?logo=delta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Lake-1E90FF?logo=azure-data-lake&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redshift-CC0000?logo=amazon-redshift&logoColor=white" />
-</p>
+* **Databases**
+    <p>
+      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+      <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white" />
+    </p>
 
-### **Databases**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white" />
-</p>
-
----
-
-## 💻 **Programming & Frameworks**
+### 💻 Programming & Frameworks
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" />
@@ -114,14 +106,26 @@ With a strong combination of **cloud architecture**, **infrastructure-as-code**,
 
 ---
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAqibS&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aqib's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAqibS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aqib's Top Languages" />
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
-<p>
-  <a href="https://www.linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN_USERNAME_HERE]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 </p>
 
 ---
 
-### ⭐ If you like my work, feel free to reach out! ⭐
+<p align="center">
+  ⭐ If you like my work, feel free to reach out! ⭐
+</p>
